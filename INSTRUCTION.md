@@ -1,7 +1,7 @@
 # Django Todo App Container Instructions
 
 ## Docker Hub Repository
-*Image Repository URL:* https://hub.docker.com/repository/docker/booobryyyyk/ma-devops-todolist-task-solution/general
+*Image Repository URL:* https://hub.docker.com/repository/docker/booobryyyyk/todoapp/general
 
 ## Building container
 
